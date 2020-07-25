@@ -1,21 +1,20 @@
 # space-invaders
-A vanilla JavaScript game with HTML and CSS
 
-View the full walkthrough [here](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) 
+Un juego JavaScript vanilla con HTML y CSS
 
-I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
+Basado en el juego del curso de que se puede ver [aquí](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 
-Space Invaders is a simple grid-based game in which you as the shooter have to shoot down as many alien invaders before they get to you. We are going to build a 15 x 15 grid square with 20 invaders to shoot. 
+## Descripcion
 
-In this repo, I will be putting extra focus on for loops and classLists in JavaScript. If you want to learn how to use these loops and classLists effectively, please have a look at my code.
+Space Invaders es un simple juego grid-based en el que tienes que intentar matar a los invasores aliens antes de que te cojan. Se trata de construir un grid 15 x 15 cuadrado con 20 invasores aliens.
 
+En este proyecto se presta especial atención a los for loops y a classLists en JavaScript.
 
-### We are also going to be looking at:
+### Puntos principales del desarrollo
+
 * for loops
 * addEventListener
 * classList
 * document.querySelector
 * Timeout
 * switch case
-
-As always I have kept the styling at a bare minimum for you to go wild and make it your own.
